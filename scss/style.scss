@@ -1,0 +1,11 @@
+@import "colores";
+@import "tamanios";
+@import "responsive"
+
+.principal{
+	display:$flex;
+    justify-content:center;
+    font-size:$fuenteSubtitulo;
+    font-family:'Girassol'
+}
+ 
